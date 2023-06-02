@@ -27,8 +27,8 @@ const Header = () => {
                             Cursos
                         </Link>
 
-                        <Link to='/contato' className="navbar-item">
-                            Contato
+                        <Link to='/suporte' className="navbar-item">
+                            Suporte
                         </Link>
 
                         <div className="navbar-item has-dropdown is-hoverable">
@@ -37,14 +37,11 @@ const Header = () => {
                             </a>
 
                             <div className="navbar-dropdown">
-                                <Link to='/cursos/computacao-basica' className="navbar-item">
-                                    Computação Básica
+                                <Link to='/sobre-nos' className="navbar-item">
+                                    Sobre nós
                                 </Link>
-                                <Link to='/cursos/curso-smartphone' className="navbar-item">
-                                    Como mexer em SmartPhone
-                                </Link>
-                                <Link to='/cursos/curso-android' className="navbar-item">
-                                    Curso de Android
+                                <Link to='/equipe' className="navbar-item">
+                                    Equipe de Desenvolvimento
                                 </Link>
                                 <hr className="navbar-divider" />
                                     <Link to="/suporte" className="navbar-item">
