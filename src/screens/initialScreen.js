@@ -1,7 +1,8 @@
 import React, { Fragment } from "react"
 import Header from "../components/header"
 import Footer from "../components/footer"
-import ContactComponent from "../components/contato"
+import sobreComponent from "../components/sobre"
+import SobreComponent from "../components/sobre"
 
 const InitialScreen = () => {
     return (
@@ -21,7 +22,7 @@ const InitialScreen = () => {
                         </div>
                     </div>
                 </div>
-                <ContactComponent link="/sobre-nos"
+                <SobreComponent link="/sobre-nos"
                 content="Saiba mais sobre nossa equipe"/>
             </section>
             <Footer />

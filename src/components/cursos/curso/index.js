@@ -7,9 +7,9 @@ const CursoItem = (props) => {
     return (
         <Fragment>
             <Link to={linkUrl}>
-                <div class="card">
-                    <header class="card-header">
-                        <p class="card-header-title">
+                <div className="card">
+                    <header className="card-header">
+                        <p className="card-header-title">
                             {props.title}
                         </p>
                     </header>
@@ -17,10 +17,11 @@ const CursoItem = (props) => {
                         <div class="content">
                             {props.sobre}
                         </div>
-                        <p>APENAS CLIQUE NO POST!!!!!!</p>
+                        <p className="has-text-link has-text-weight-bold">APENAS CLIQUE NO POST!!!!!!</p>
                     </div>
                 </div>
             </Link>
+            <br/>
         </Fragment>
     )
 }
