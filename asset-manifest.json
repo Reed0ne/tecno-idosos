@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reed0ne.github.io/tecno-idosos/static/css/main.9d890d03.css",
+    "main.js": "/reed0ne.github.io/tecno-idosos/static/js/main.1c108d1b.js",
+    "static/js/787.51e3d03e.chunk.js": "/reed0ne.github.io/tecno-idosos/static/js/787.51e3d03e.chunk.js",
+    "index.html": "/reed0ne.github.io/tecno-idosos/index.html",
+    "main.9d890d03.css.map": "/reed0ne.github.io/tecno-idosos/static/css/main.9d890d03.css.map",
+    "main.1c108d1b.js.map": "/reed0ne.github.io/tecno-idosos/static/js/main.1c108d1b.js.map",
+    "787.51e3d03e.chunk.js.map": "/reed0ne.github.io/tecno-idosos/static/js/787.51e3d03e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d890d03.css",
+    "static/js/main.1c108d1b.js"
+  ]
+}
