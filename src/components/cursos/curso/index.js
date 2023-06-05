@@ -13,8 +13,8 @@ const CursoItem = (props) => {
                             {props.title}
                         </p>
                     </header>
-                    <div class="card-content">
-                        <div class="content">
+                    <div className="card-content">
+                        <div className="content">
                             {props.sobre}
                         </div>
                         <p className="has-text-link has-text-weight-bold">APENAS CLIQUE NO POST!!!!!!</p>

@@ -4,8 +4,8 @@ import CursoItem from "./curso";
 const Cursos = () => {
     return (
         <Fragment>
-            <CursoItem id="programacao-basica"
-            title="Curso computação Básica"
+            <CursoItem id="informatica-basica"
+            title="Curso de informática Básica"
             sobre="Esse vídeo faz parte do conteúdo programático do Curso de Informática Básica GRÁTIS   do portal Certificado Cursos Online. O curso é gratuito e conta com certificado de conclusão opcional."/>
             <CursoItem id="smartphone-dicas"
             title="Dicas da Vovó Hi-Tech"

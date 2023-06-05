@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <footer class="footer has-background-white">
-            <div class="content has-text-centered has-text-black-bis">
+        <footer className="footer has-background-white">
+            <div className="content has-text-centered has-text-black-bis">
                 <p>
                     <strong className="has-text-link"> Tecno Idosos © </strong> 2023 - Todos os direitos reservados. <br/> Tecno Idosos - Seu Portal de Aprendizado
                 </p>
